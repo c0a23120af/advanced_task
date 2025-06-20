@@ -20,5 +20,10 @@
 <form action="/2025n/register.jsp" method="get" style="margin-top:10px;">
     <input type="submit" value="ユーザー登録画面へ" />
 </form>
+
+<!-- クイズ画面へのボタン追加　-->
+<form action="/2025n/quizzes.jsp" method="get" style="margin-top:10px;">
+    <input type="submit" value="クイズ画面へ" />
+</form>
 </body>
 </html>
